@@ -1,6 +1,11 @@
 # Quasar App 
 
 Proyecto de prueba de componentes de Quasar
+- El proyecto utiliza layouts
+- Componentes con carga peresoza
+- Rutas por nombre
+- Vuex
+- Uso de composables
 
 ## Install the dependencies
 ```bash
