@@ -1,0 +1,1 @@
+import{af as o,a as u}from"./index.3986618e.js";const i=()=>{const e=o();return{sideMenuOpen:u({get(){return e.getters["ui/isSideMenuOpen"]},set(t){console.log(t),e.commit("ui/toggleSideMenu")}}),toggleSideMenu(){e.commit("ui/toggleSideMenu")}}};export{i as u};
